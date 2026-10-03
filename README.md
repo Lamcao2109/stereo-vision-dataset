@@ -8,8 +8,8 @@ Stereo image pairs of tabletop objects, captured under controlled camera misalig
 
 - **5 scenes** with different objects at different distances from the camera
 - **7 conditions** per scene: the default (calibrated) setup plus controlled pitch rotations and vertical translations
-- **10 stereo pairs** per condition (9 for `Mouse_60cm_data/pitch_6degs`)
-- **698 images** in total, 1920 × 1080 PNG, ~1.1 GB
+- **10 stereo pairs** per condition
+- **700 images** (350 pairs) in total, 1920 × 1080 PNG, ~1.1 GB
 
 ## Structure
 
@@ -66,7 +66,3 @@ right = Image.open("Bowl_90cm_data/default/000_R.png")
   year      = {TODO}
 }
 ```
-
-## License
-
-_TODO: e.g. CC BY 4.0_
