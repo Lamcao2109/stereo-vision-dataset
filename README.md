@@ -2,7 +2,7 @@
 
 Stereo image pairs of tabletop objects, captured under controlled camera misalignments. This dataset accompanies our research paper.
 
-> **Paper:** _TODO: title, authors, venue/year_ · [link](#) · [arXiv](#)
+Detecting and Measuring Stereo Camera Misalignment Using Object Detection and Self-Supervised Visual Features, Lam Cao
 
 ## Overview
 
